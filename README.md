@@ -1,2 +1,2 @@
 # GitHub-Notes
-Useful information about Git / GitHub and associated tools
+Useful information about Git / GitHub / Git Codespaces and associated tools
