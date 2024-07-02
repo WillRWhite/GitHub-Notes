@@ -9,12 +9,12 @@ git commit -m "First commit"
 #### Push Local Repo to this Remote Repo
 
 git remote add origin https://github.com/WillRWhite/holidayhomes.git  
-
-\# Verifies the new remote URL  
-git remote -v
-git push -u origin master  
 \# Check where origin is located:  
 git ls-remote --get-url origin  
+
+\# Verifies the new remote URL  
+git remote -v  
+git push -u origin master  
 
 #### Clone
 
