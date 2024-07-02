@@ -13,6 +13,8 @@ git remote add origin https://github.com/WillRWhite/holidayhomes.git
 \# Verifies the new remote URL  
 git remote -v
 git push -u origin master  
+\# Check where origin is located:  
+git ls-remote --get-url origin  
 
 #### Clone
 
