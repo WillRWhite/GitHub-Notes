@@ -1,9 +1,9 @@
 ### General Git Stuff
 
 ### Initial git setup:  
-git config --global user.email "william.white@directinsight.co.uk"
-git config --global user.name "William White"
-git config credential.helper store
+git config --global user.email "william.white@directinsight.co.uk"  
+git config --global user.name "William White"  
+git config credential.helper store  
 
 #### Configure Local Repo
 
