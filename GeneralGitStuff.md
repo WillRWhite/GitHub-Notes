@@ -41,7 +41,7 @@ git pull
 
 ### Taging the last commit and pushing to the remote  
 Full details here https://git-scm.com/book/en/v2/Git-Basics-Tagging  
-A basic annotated tag:
+A basic annotated tag:  
 git tag -a v1.4  
 git tag  
 git show <tag>  
