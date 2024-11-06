@@ -39,6 +39,26 @@ git merge origin\master
 \# The following commands fetches and merges  
 git pull  
 
+### Taging the last commit and pushing to the remote  
+Full details here https://git-scm.com/book/en/v2/Git-Basics-Tagging  
+A basic annotated tag:
+git tag -a v1.4  
+git tag  
+git show <tag>  
+
+
+#### To push a single tag:  
+git push origin tag <tag_name>  
+And the following command should push all tags (not recommended):  
+git push --tags  
+
+
+### Amending the last commit with a new or updated file 
+
+git add <the_left_out_file>    
+git commit --amend --no-edit  
+The --no-edit flag allows to make an amendment to the commit without changing the commit message.
+
 ### Other Useful Resources
 
 #### Interacting with a remore Repo
