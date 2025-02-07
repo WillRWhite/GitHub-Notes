@@ -8,6 +8,10 @@
 
 * Then publish and you should get choices of where you can publish assuming you are connected to some repos (see below)  
 
-* Verify that items have indeed been published  
+* Verify that items have indeed been published
+
+### Senario 2 - Clone a GitHub repo to a folder on a local machine
+pass  
 
 ### Connecting VSCode to a GitHub Account  
+psss 
