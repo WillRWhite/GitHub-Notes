@@ -1,9 +1,11 @@
-Senario 1 - Existing folder on local machine containing project
+### Using GitHub with VSCode
 
-Go to Git icon and select "initilise Repository". This will create a .git configuration sub-folder
+Senario 1 - Existing folder on local machine containing project but Git is not initilised:
 
-stage/commit = First commit
+* Go to Git icon and select "initilise Repository". This will create a .git configuration sub-folder
 
-Then publish and you should get choices of where you can publish assuming you are connected to some repos
+* stage/commit = First commit
 
-Verify that items have indeed been published
+* Then publish and you should get choices of where you can publish assuming you are connected to some repos
+
+* Verify that items have indeed been published
